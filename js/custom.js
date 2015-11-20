@@ -22,7 +22,7 @@ function check(form) { /*function to check userid & password*/
                     window.open('member.html')/*opens the target page while Id & password matches*/
                 }
                 else {
-                    alert("Incorrect Password or Username")/*displays error message*/
+                    sweetAlert("Incorrect Password or Username")/*displays error message*/
                 }
             }
 
