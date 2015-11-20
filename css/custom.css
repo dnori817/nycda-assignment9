@@ -1,0 +1,94 @@
+/*div {
+	border: solid 1px black;
+
+}
+*/
+
+#login {
+	height: 550px;
+	background-color: #1c1c1d;
+
+}
+
+#login .form-horizontal {
+	text-align: left;
+	padding-top: 100px;
+	color: #1d4a7d;
+}
+
+#banner {
+	background-color: #1c1c1d; 
+}
+
+#banner .col-md-12 img {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 200px;
+	padding: none;
+
+}
+
+
+
+#navbar .col-md-3 {
+	height: 50px;
+	text-align: center;
+	font-size: 30px;
+	color: #1d4a7d;
+	background-color: #1c1c1d;
+
+}
+
+#navbar .col-md-3:hover {
+	color: #1c1c1d;
+	background-color: #1d4a7d;
+
+}
+
+#welcome {
+	background-color: #1c1c1d; 
+}
+
+
+#welcome .col-md-12 img {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+	padding: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.form-control {
+	width: 25%;
+}
+
+#state {
+	width: 20%;
+
+}
+
+#zip {
+	width: 20%;
+
+}
+
+#submitButton {
+	width: 10%;
+}
+
+#submitButton2 {
+	width: 10%;
+}
