@@ -1,12 +1,12 @@
 $("#banner img").velocity({ 
-  scale: 1.1},
-  {delay: 800
+  scale: 1.2},
+  {delay: 500
 });
 
 
 
 $(".col-md-3").mouseover(function(){
-		$(this).velocity({fontSize: "35px"});
+		$(this).velocity({fontSize: "40px"});
 	});	
 
 $(".col-md-3").mouseleave(function(){
